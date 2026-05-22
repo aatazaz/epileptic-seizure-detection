@@ -12,4 +12,4 @@ This project implements a comprehensive data mining pipeline for epileptic seizu
 - **SMOTE** improves recall but reduces precision (tradeoff)
 - **Class weighting** is most stable across different regularization methods
 
-## 📁 Repository Structure
+
